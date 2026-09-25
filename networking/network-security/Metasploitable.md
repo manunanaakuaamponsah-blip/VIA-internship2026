@@ -1,6 +1,7 @@
 # Metasploitable2 Exploitation Report
 
-**Name:**   MANU NANA AKUA AMPONSAH**Index Number:** <Your Index Number>
+**Name:**   MANU NANA AKUA AMPONSAH**
+Index Number:** <Your Index Number>
 **Date:** <Today's Date>
 **Target IP:** 192.168.30.4
 **Attacker OS / Tools:** Kali Linux, nmap 7.99,  mount (NFS client)
